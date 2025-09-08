@@ -9,7 +9,6 @@ function tp_ocdi_import_files() {
     return array(
       array(
         'import_file_name'           => 'Home 2',
-        // 'categories'                 => array( 'Business' ),
         'local_import_file'             => trailingslashit( get_template_directory() ) .'sample-data/contents-demo.xml',
         'local_import_widget_file' => trailingslashit( get_template_directory() ) . 'sample-data/widget-settings.json',
         'local_import_customizer_file' => trailingslashit( get_template_directory() ) . 'sample-data/customizer-data.dat',
@@ -18,7 +17,6 @@ function tp_ocdi_import_files() {
       ),
       array(
         'import_file_name'           => 'Home 1',
-        // 'categories'                 => array( 'Lawyer' ),
         'local_import_file'             => trailingslashit( get_template_directory() ) .'sample-data/contents-demo.xml',
         'local_import_widget_file' => trailingslashit( get_template_directory() ) . 'sample-data/widget-settings.json',
         'local_import_customizer_file' => trailingslashit( get_template_directory() ) . 'sample-data/customizer-data.dat',

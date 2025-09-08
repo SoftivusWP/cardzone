@@ -1,0 +1,128 @@
+.etn-widget.etn-add-calender-url{
+    margin-top: 25px;
+}
+
+.tp-event-details__text p{
+    font-family: 'Manrope', sans-serif;
+    
+}
+
+.tp-black-bg{
+	background-color: #16243E;
+}
+
+.ddd{
+	background:  #1A4DBE12 !important;
+}
+
+.filter-btn{
+	border: none;
+}
+.logo-menu a img {
+    max-width: 250px !important;
+}
+h1.page-title.blog-search-title {
+    color: #222E48;
+   
+}
+
+.pageontent.blog-search-content.mt-20.mb-10 p {
+    color: #404a60;
+	margin-bottom: 30px;
+}
+.search-px input[type="text"] {
+    width: 100%;
+    outline: none;
+    border: none;
+    padding: 10px 15px;
+	color: #000;
+}
+
+.card_search .search-px form {
+    background: #fff;
+}
+
+.tp-error__text.mb-20 p {
+    color: #404a60;
+}
+
+h4.tp-error__title {
+    margin-top: 50px;
+}
+
+.outline__btn span {
+    color: var(--base);
+}
+
+.admin-bar .header-section.menu-fixed {
+    margin-top: 32px;
+}
+
+.rq-alike-compare .rq-alike-items .rq-alike-items-list {
+    height: 70px !important;
+}
+
+.rq-alike-compare .rq-alike-topic-p .rq-alike-topic.alike-image {
+    height: 100px;
+}
+.rq-alike-topic-p ._mCS_1 {
+   
+    height: 300px !important;
+}
+.rq-alike-topic{
+    height: 70px !important;
+}
+.alike-column .rq-alike-items-list:first-child{
+   
+    height: 300px !important;
+}
+.mCSB_container{
+    color: #000 !important;
+}
+.rq-alike-compare .rq-alike-items .rq-alike-items-list.alike-image img {
+   
+    max-width: 364px;
+    object-fit: contain !important;
+}
+.rq-alike-top-data {
+    font-size: 18px;
+    color: #222E48 !important;
+    padding-top: 15px;
+    font-weight: 600 !important;
+}
+
+.rq-alike-compare .rq-alike-items .rq-alike-items-list.alike-image .rq-alike-top-data h2 {
+    margin-top: -8px !important;
+}
+
+
+
+.breadcrumb-gap{
+    padding-top: 70px !important;
+}
+
+.cardnoresult{
+    color:#000;
+   
+}
+a.alike-button.alike-button-style {
+    font-size: 14px;
+}
+
+.headerthree{
+    background:#112F75 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

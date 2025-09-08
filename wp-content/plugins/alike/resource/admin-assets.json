@@ -1,0 +1,6 @@
+{
+  "alike_backend": {
+    "js": "alike_backend.js",
+    "css": "../css/alike-bundle-admin.css"
+  }
+}

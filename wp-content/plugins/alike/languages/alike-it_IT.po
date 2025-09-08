@@ -1,0 +1,198 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Alike - Any post comparison WordPress\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2018-04-05 19:21+0600\n"
+"PO-Revision-Date: 2018-04-05 19:22+0600\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: alike.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/admin-templates/alike-settings.php:18
+msgid "Alike Settings"
+msgstr "Alike Impostazioni"
+
+#: admin/admin-templates/alike-settings.php:20
+msgid "Preview skin chooser"
+msgstr "Anteprima pelle Scelta"
+
+#: admin/admin-templates/alike-settings.php:41
+msgid "Image Crop"
+msgstr "Ritaglia immagine"
+
+#: admin/admin-templates/alike-settings.php:42
+msgid "The sizes listed below determine the maximum dimensions in pixels to use when showing an image to the Compare Page."
+msgstr "Le misure proposte qui di seguito determinano le dimensioni massime in pixel da utilizzare quando mostra un'immagine al Confronto pagina."
+
+#: admin/admin-templates/alike-settings.php:47
+msgid "Thumbnail image size"
+msgstr "Miniatura"
+
+#: admin/admin-templates/alike-settings.php:49
+msgid "Width"
+msgstr "Larghezza"
+
+#: admin/admin-templates/alike-settings.php:52
+msgid "Height"
+msgstr "Altezza"
+
+#: admin/admin-templates/alike-settings.php:55
+msgid "Crop thumbnail to exact dimensions (normally thumbnails are proportional)"
+msgstr "Crop miniatura per dimensioni esatte ( normalmente le miniature sono proporzionali )"
+
+#: admin/admin-templates/alike-settings.php:64
+msgid "Maximum posts to compare"
+msgstr "Messaggi massimo per confrontare"
+
+#: admin/admin-templates/alike-settings.php:73
+msgid "Alike preview page"
+msgstr "Alike Impostazioni"
+
+#: admin/class-ra-admin-scripts.php:103
+msgid "Save"
+msgstr "Salva"
+
+#: admin/class-ra-admin-scripts.php:104
+msgid "Please select a post type"
+msgstr "Prego Seleziona un tipo"
+
+#: admin/class-ra-admin-scripts.php:105
+msgid "Add Post Types"
+msgstr "Aggiungi tipo Post"
+
+#: admin/class-ra-admin-scripts.php:106
+msgid "Please select post types"
+msgstr "Prego Seleziona un tipo"
+
+#: admin/class-ra-admin-scripts.php:107
+msgid "Update"
+msgstr "Aggiorna"
+
+#: admin/class-ra-admin-scripts.php:108
+msgid "Show Rating Box"
+msgstr "Mostra interfaccia utente"
+
+#: admin/class-ra-admin-scripts.php:109
+msgid "Show on Top"
+msgstr "Visualizza"
+
+#: admin/class-redq-admin.php:57
+#: admin/class-redq-admin.php:66
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Non hai permessi sufficienti per accedere a questa pagina."
+
+#: alike-templates/shortcodes/alike-preview-flex.php:3
+#: alike-templates/shortcodes/alike-preview-old.php:3
+#: alike-templates/shortcodes/alike-preview.php:3
+#: alike-templates/shortcodes/allke-preview-another.php:3
+msgid "No IDs to compare"
+msgstr "Confronta"
+
+#: alike-templates/shortcodes/alike-preview-flex.php:19
+#: alike-templates/shortcodes/alike-preview-old.php:20
+#: alike-templates/shortcodes/alike-preview.php:27
+#: alike-templates/shortcodes/allke-preview-another.php:20
+msgid "Please select same post type to compare."
+msgstr "Prego Seleziona un tipo"
+
+#: alike-templates/shortcodes/alike-preview-flex.php:304
+#: alike-templates/shortcodes/alike-preview-old.php:423
+#: alike-templates/shortcodes/alike-preview.php:168
+#: alike-templates/shortcodes/allke-preview-another.php:462
+#: app/class-ra-frontend-scripts.php:59
+#, php-format
+msgid "You can compare maximum between %s items."
+msgstr "È possibile confrontare massimo tra le voci %s."
+
+#: alike-templates/shortcodes/alike-preview-old.php:245
+#: alike-templates/shortcodes/alike-preview-old.php:274
+#: app/alike-helper-function.php:242
+#: app/alike-helper-function.php:417
+msgid "Array or Object are not allowed here"
+msgstr "Array o Object non sono concessi qui"
+
+#: alike-templates/shortcodes/alike-preview-old.php:290
+msgid "Sorry! not allowed."
+msgstr "Siamo spiacenti, c’è un problema nell’autenticazione sociale"
+
+#: alike-templates/shortcodes/alike-preview.php:59
+msgid "Show All"
+msgstr "Mostrare Tutto"
+
+#: alike-templates/shortcodes/alike-preview.php:59
+msgid "Show Difference"
+msgstr "Visualizza la differenza"
+
+#: alike-templates/shortcodes/alike-widget.php:24
+#: alike.php:75
+#: alike.php:97
+msgid "No Items Selected."
+msgstr "Selezionato"
+
+#: alike-templates/shortcodes/alike-widget.php:31
+#: app/class-ra-widget.php:42
+msgid "Compare"
+msgstr "Confronta"
+
+#: alike-templates/shortcodes/alike-widget.php:32
+msgid "Clear"
+msgstr "pulire"
+
+#: alike.php:127
+msgid "REMOVE ALL"
+msgstr "RIMUOVI TUTTO"
+
+#: alike.php:135
+msgid "COMPARE"
+msgstr "CONFRONTARE"
+
+#: app/alike-helper-function.php:605
+msgid "Add to cart"
+msgstr "Aggiungi al carrello"
+
+#: app/alike-helper-function.php:611
+msgid "Select options"
+msgstr "Acquista"
+
+#: app/class-ra-shortcodes.php:27
+msgid "Add To Compare"
+msgstr "Confronta"
+
+#: app/class-ra-widget.php:12
+msgid "Alike Widget"
+msgstr "Allo stesso modo Widget"
+
+#: app/class-ra-widget.php:13
+msgid "A simple sidebar widget for displaying the added comparable posts."
+msgstr "Un semplice widget barra laterale per la visualizzazione dei messaggi analoghi aggiunto."
+
+#. Plugin Name of the plugin
+msgid "Alike - WordPress Custom Post Comparison"
+msgstr "Alike - Wordpress Custom Post Comparino"
+
+#. Plugin URI of the plugin
+msgid "https://goo.gl/95KKLv"
+msgstr "https://goo.gl/95KKLv"
+
+#. Description of the plugin
+msgid "Alike - is a WordPress post comparison plugin. It can compare between two or more posts in same post type."
+msgstr "Allo stesso modo - è un plugin per WordPress post confronto. E ' possibile confrontare tra due o più messaggi in stesso tipo di post."
+
+#. Author of the plugin
+msgid "redqteam"
+msgstr "redqteam"
+
+#. Author URI of the plugin
+msgid "https://redq.io/"
+msgstr "https://redq.io/"

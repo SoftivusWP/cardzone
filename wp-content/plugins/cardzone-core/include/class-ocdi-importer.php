@@ -95,6 +95,9 @@ function tp_ocdi_after_import_setup( $demo ) {
         update_option( 'woocommerce_checkout_page_id', '15' );
         update_option( 'woocommerce_myaccount_page_id', '16' );
     }
+
+    $elementor_cpt_support = [ 'page', 'post', 'product' ]; 
+    update_option( 'elementor_cpt_support', $elementor_cpt_support );
  
 }
 add_action( 'ocdi/after_import', 'tp_ocdi_after_import_setup' );

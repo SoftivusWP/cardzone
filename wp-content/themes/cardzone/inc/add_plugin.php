@@ -23,7 +23,7 @@ function cardzone_register_required_plugins() {
      * If the source is NOT from the .org repo, then source is also required.
      */
 
-    $url = 'https://softivuslab.com/wp/cardzone/source/';
+    $url = 'https://pixelaxis.net/cardzone/source/';
     $plugins = [
         [
             'name'     => esc_html__( 'Elementor Page Builder', 'cardzone' ),
@@ -38,9 +38,9 @@ function cardzone_register_required_plugins() {
         [
 			'name'         => esc_html__('Advanced Custom Fields Pro Master', 'cardzone'),
 			'slug'         => 'advanced-custom-fields-pro-master',
-			'source'       => esc_url('https://softivuslab.com/wp/cardzone/source/advanced-custom-fields-pro-master.zip'),
+			'source'       => esc_url('https://pixelaxis.net/cardzone/source/advanced-custom-fields-pro-master.zip'),
 			'required'     => true,
-			'external_url' => esc_url('https://softivuslab.com/wp/cardzone/source/advanced-custom-fields-pro-master.zip'),
+			'external_url' => esc_url('https://pixelaxis.net/cardzone/source/advanced-custom-fields-pro-master.zip'),
 		],
         [
             'name'         => esc_html__( 'Cardzone Core ', 'cardzone' ),

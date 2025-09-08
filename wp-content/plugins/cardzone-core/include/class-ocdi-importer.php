@@ -13,7 +13,7 @@ function tp_ocdi_import_files() {
         'local_import_widget_file' => trailingslashit( get_template_directory() ) . 'sample-data/widget-settings.json',
         'local_import_customizer_file' => trailingslashit( get_template_directory() ) . 'sample-data/customizer-data.dat',
         'import_preview_image_url' => plugins_url( 'assets/img/demo/demo-1.jpg', dirname(__FILE__) ),
-        'preview_url'                => 'https://softivuslab.com/wp/cardzone/home-02',
+        'preview_url'                => 'https://pixelaxis.net/cardzone/home-02',
       ),
       array(
         'import_file_name'           => 'Home 1',
@@ -21,7 +21,7 @@ function tp_ocdi_import_files() {
         'local_import_widget_file' => trailingslashit( get_template_directory() ) . 'sample-data/widget-settings.json',
         'local_import_customizer_file' => trailingslashit( get_template_directory() ) . 'sample-data/customizer-data.dat',
         'import_preview_image_url' => plugins_url( 'assets/img/demo/demo-2.jpg', dirname(__FILE__) ),
-        'preview_url'                => 'https://softivuslab.com/wp/cardzone/',
+        'preview_url'                => 'https://pixelaxis.net/cardzone/',
       ),
 
     );
